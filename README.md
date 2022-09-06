@@ -1,8 +1,6 @@
 # Lotka-Volterra Root Finding Solution
 Predator-prey dynamics of the Lotka-Volterra model are normally worked out by solving the differential equations numerically (Runge-Kutta). This alternative, however, applies Regula-Falsi root finding.
 
-Made for the completion of CS 136 (Elementary Numerical Methods I).
-
 ## Documentation
 Found [here](https://drive.google.com/file/d/1qumwxmLpMo7Z_LwizRqNo_AprVtUJzze/view?usp=sharing).
 
